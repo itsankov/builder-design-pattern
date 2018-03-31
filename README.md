@@ -1,5 +1,5 @@
 
-Title
+Builder Design Pattern
 ========================================
 [Ivelin Tsankov](http://ivelintsankov.com/builder-design-pattern/)
 
@@ -91,7 +91,7 @@ connection = director.connection
  Info
  ====
  
- http://ivelintsankov.com/builder-design-pattern/
+ [Ivelin Tsankov](http://ivelintsankov.com/builder-design-pattern/)
  
  
 ```swift
